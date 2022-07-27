@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gabriel</h1>
 <h3 align="center">A passionate frontend developer from Brazil with a focus on web development.</h3>
-
+<img align="center" href="blob:https://web.whatsapp.com/0090afc1-a515-4608-b794-df1deef62a7e"/>
 - 🌱 I’m currently learning **advanced HTML and CSS, and starting with JS.**
 
 <h3 align="left">Connect with me:</h3>
