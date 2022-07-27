@@ -1,4 +1,4 @@
-h1 align="center">Hi 👋, I'm Gabriel</h1>
+<h1 align="center">Hi 👋, I'm Gabriel</h1>
 <h3 align="center">A passionate frontend developer from Brazil with a focus on web development.</h3>
 
 - 🌱 I’m currently learning **advanced HTML and CSS, and starting with JS.**
