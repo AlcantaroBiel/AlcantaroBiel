@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gabriel</h1>
 <h3 align="center">A passionate frontend developer from Brazil with a focus on web development.</h3>
-<img align="center" href="../img-perfil"/>
+![alt text](https://github.com/AlcantaroBiel/AlcantaroBiel/blob/main/img-perfil.jpeg)
 - 🌱 I’m currently learning advanced HTML and CSS, and starting with JS.
 
 <h3 align="left">Connect with me:</h3>
