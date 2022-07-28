@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gabriel</h1>
-<h3 align="center">A passionate frontend developer from Brazil with a focus on web development. 🤓</h3>
+<h3 align="center">A passionate frontend developer from Brazil with emphasis on web development. 🤓</h3>
 <p align="center">
   <img src="img-perfil-readme (1).png" height="auto" width="200">
 </p>
