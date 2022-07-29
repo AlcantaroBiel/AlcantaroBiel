@@ -3,7 +3,7 @@
 <p align="center">
   <img src="img-perfil-readme (1).png" height="auto" width="200">
 </p>
-- 🌱 I’m currently learning advanced HTML and CSS, and starting with JS.
+- 📚 I'm currently learning advanced HTML, advanced CSS and starting with JS.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
