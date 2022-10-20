@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gabriel</h1>
 <h3 align="center">A passionate frontend developer from Brazil with a focus on web development.🤓</h3>
-</br>
-![alt text](https://pbs.twimg.com/profile_images/1539778341875638275/NJCRRAvd_400x400.jpg)
+
+<p align="center">
+  <img src="https://pbs.twimg.com/profile_images/1539778341875638275/NJCRRAvd_400x400.jpg" width="350" border-radius="100%">
+</p>
 
 - 🌱 I’m currently learning **advanced HTML and CSS, and starting with JS.**
 
