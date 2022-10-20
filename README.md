@@ -5,7 +5,7 @@
   <img src="https://github.com/AlcantaroBiel/GAMEFLIX/blob/main/img/Picsart_22-10-20_20-21-39-138.png?raw=true" width="350" border-radius="100%">
 </p>
 
-- 🌱 I’m currently learning **advanced HTML and CSS, and starting with JS.**
+- 🌱 I’m currently learning **advanced HTML, CSS, JS and starting with NodeJS.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
