@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Brazil with a focus on web development.🤓</h3>
 
 <p align="center">
-  <img src="https://pbs.twimg.com/profile_images/1539778341875638275/NJCRRAvd_400x400.jpg" width="350" border-radius="100%">
+  <img src="https://github.com/AlcantaroBiel/Tranqueira-dos-curso/blob/main/Picsart_22-10-20_20-21-39-138.png?raw=true" width="350" border-radius="100%">
 </p>
 
 - 🌱 I’m currently learning **advanced HTML and CSS, and starting with JS.**
