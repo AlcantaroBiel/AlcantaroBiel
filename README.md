@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gabriel</h1>
-<h3 align="center">A passionate Computer Science student.🤓</h3>
+<h3 align="center">A passionate Computer Science student from Brazil.🤓</h3>
 
 <p align="center">
-  <img src="https://github.com/AlcantaroBiel/GAMEFLIX/blob/main/img/Picsart_22-10-20_20-21-39-138.png?raw=true" width="350" border-radius="100%">
+  <img src="https://github.com/AlcantaroBiel/GAMEFLIX/blob/main/img/Picsart_22-10-20_20-21-39-138.png?raw=true" width="300" border-radius="100%">
 </p>
 
 - 🌱 I’m currently learning **Java, C and SQL.**
