@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Computer Science student from Brazil.🤓</h3>
 
 <p align="center">
-  <img src="https://github.com/AlcantaroBiel/GAMEFLIX/blob/main/img/Picsart_22-10-20_20-21-39-138.png?raw=true" width="300" border-radius="100%">
+  <img src="https://github.com/AlcantaroBiel/AlcantaroBiel/blob/main/readme-profile-picture.jpg" width="300" border-radius="100%">
 </p>
 
 - 🔭 I’m currently working on **populate more projects in this Github, feel free to look around!**
