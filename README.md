@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Computer Science student from Brazil.🤓</h3>
 
 <p align="center">
-  <img src="https://github.com/AlcantaroBiel/AlcantaroBiel/blob/main/readme-profile-picture.png" width="200" style="border-radius: 50%;">
+  <img src="https://github.com/AlcantaroBiel/AlcantaroBiel/blob/main/readme-profile-picture.png" width="200" style="border-radius: 50%; background-color: transparent;">
 </p>
 
 - 🔭 I’m currently working on **populate more projects in this Github, feel free to look around!**
